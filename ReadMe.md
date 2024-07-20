@@ -31,6 +31,8 @@ Ctrl+p
 
 `dotnet new webapi -n API`
 
+`dotnet new webapi -n API --dry-run`
+
 
 ### Create Lib in .net core
 
