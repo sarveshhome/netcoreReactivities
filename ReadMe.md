@@ -69,6 +69,12 @@ Ctrl+p
 `dotnet restore`
 
 
+### run the API
+
+`dotnet run`
+
+`http://localhost:5050/swagger/index.html`
+
 
 
 ### Create Lib in .net core
