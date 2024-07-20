@@ -33,6 +33,10 @@ Ctrl+p
 
 `dotnet new webapi -n API --dry-run`
 
+`dotnet new webapi --use-controllers -o API`
+
+`dotnet add package Microsoft.EntityFrameworkCore.InMemory`
+
 
 ### API.csproj file setup
 
