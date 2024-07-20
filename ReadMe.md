@@ -38,6 +38,9 @@ Ctrl+p
 `dotnet add package Microsoft.EntityFrameworkCore.InMemory`
 
 
+`https://www.nuget.org/packages/Swashbuckle.AspNetCore`
+
+
 ### API.csproj file setup
 
 ```
