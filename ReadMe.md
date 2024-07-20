@@ -131,7 +131,11 @@ cd Persistence
 
 `dotnet add reference ../Domain`
 
+### Add in model
 
+`dotnet add package System.ComponentModel.Annotations`
+
+`using System.ComponentModel.DataAnnotations;`
 
 ###  .NET CLI commands
 
