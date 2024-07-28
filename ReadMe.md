@@ -153,6 +153,10 @@ dotnet add package Microsoft.EntityFrameworkCore.Tools
 
 ```
 
+### git ignore file create command
+
+`dotnet new gitignore`
+
 
 
 
